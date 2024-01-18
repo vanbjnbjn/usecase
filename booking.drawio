@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T06:25:39.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="udsBThUZ5A9kWTJ0jaZP" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:00:46.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K2ektvmV20TbdqfR9jmt" version="22.1.21" type="github">
   <diagram name="Page-1" id="sEAu9rGyXWfr59P4b1Dc">
     <mxGraphModel dx="1194" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-KIOnbsxqLIStmd7eqbL-1" value="Client" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KIOnbsxqLIStmd7eqbL-2" value="Admin" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KIOnbsxqLIStmd7eqbL-3" value="Guest" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KIOnbsxqLIStmd7eqbL-4" value="Customer" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
