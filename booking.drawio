@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T16:30:08.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="u0nkacNcYtNcodnquSjA" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T16:36:42.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gkWuXHhf-nqaXWREbzaj" version="22.1.18" type="github">
   <diagram name="Page-1" id="sEAu9rGyXWfr59P4b1Dc">
     <mxGraphModel dx="2180" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UZynZxMn0wIeEGekEBfj-8" value="booking" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="80" width="600" height="880" as="geometry" />
+          <mxGeometry x="-120" y="80" width="720" height="880" as="geometry" />
         </mxCell>
         <mxCell id="UZynZxMn0wIeEGekEBfj-2" value="Search" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="UZynZxMn0wIeEGekEBfj-8">
           <mxGeometry x="80" y="50" width="120" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZynZxMn0wIeEGekEBfj-6" value="Chat" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="UZynZxMn0wIeEGekEBfj-8">
-          <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZynZxMn0wIeEGekEBfj-9" value="Login" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="UZynZxMn0wIeEGekEBfj-8">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
@@ -57,6 +57,12 @@
             <mxPoint x="200" y="549.29" as="sourcePoint" />
             <mxPoint x="360" y="549.29" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UZynZxMn0wIeEGekEBfj-40" value="booking management" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="UZynZxMn0wIeEGekEBfj-8">
+          <mxGeometry x="545" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZynZxMn0wIeEGekEBfj-41" value="acept request" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="UZynZxMn0wIeEGekEBfj-8">
+          <mxGeometry x="420" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZynZxMn0wIeEGekEBfj-10" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UZynZxMn0wIeEGekEBfj-2">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -93,11 +99,11 @@
             <mxPoint x="710" y="280" as="sourcePoint" />
             <mxPoint x="770" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="790" />
+              <mxPoint x="640" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZynZxMn0wIeEGekEBfj-18" value="booking" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UZynZxMn0wIeEGekEBfj-18" value="admin" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="900" y="80" width="600" height="880" as="geometry" />
         </mxCell>
         <mxCell id="UZynZxMn0wIeEGekEBfj-19" value="Register" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="UZynZxMn0wIeEGekEBfj-18">
