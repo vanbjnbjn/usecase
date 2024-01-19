@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:30:40.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="H6zuoQG_7rwR1QJJ_9cM" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T08:02:06.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-Q88QVYKOwRfZDul8a9z" version="22.1.21" type="github">
   <diagram name="Page-1" id="sEAu9rGyXWfr59P4b1Dc">
-    <mxGraphModel dx="2687" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,6 +322,9 @@
             <mxPoint x="510" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jrF5rtS-pManaZBHN2W6-69" value="History" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="jrF5rtS-pManaZBHN2W6-42">
+          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="jrF5rtS-pManaZBHN2W6-43" value="Client" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="-719" y="1420" width="30" height="60" as="geometry" />
         </mxCell>
@@ -350,6 +353,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-210" y="1510" as="sourcePoint" />
             <mxPoint x="240" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrF5rtS-pManaZBHN2W6-70" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jrF5rtS-pManaZBHN2W6-69">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-680" y="1460" as="sourcePoint" />
+            <mxPoint x="-580" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
